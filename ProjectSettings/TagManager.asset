@@ -1,0 +1,117 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - pilg
+  - ampulg
+  - ampul
+  - kablo
+  - anahtar
+  - anahtarg
+  - kablog
+  - ampulg2
+  - pil
+  - voltmetre
+  - sepet
+  - ampermetre
+  - ampulkablo
+  - col3
+  - col2
+  - col1
+  - p
+  - s
+  - ps
+  - devre1
+  - devre2
+  - devre3
+  - devre4
+  - devre5
+  - devre6
+  - devre7
+  - devre8
+  - yuva
+  - pil1
+  - pil2
+  - pil3
+  - pil4
+  - pil5
+  - pil6
+  - alan1
+  - alan2
+  - ind
+  - v3
+  - v6
+  - v9
+  - v12
+  - v15
+  - v25
+  - v0
+  - ampulcol
+  - pilcol
+  - anahtarcol
+  - voltcol
+  - ampercol
+  - kablocol
+  - ampulGcol
+  - pilGcol
+  - anahtarGcol
+  - voltGcol
+  - amperGcol
+  - kabloGcol
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: -2
+    uniqueID: 953968869
+    locked: 0
+  - name: 1
+    uniqueID: 3811485555
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: -1
+    uniqueID: 2928065
+    locked: 0
+  - name: 2
+    uniqueID: 1945885275
+    locked: 0
+  - name: 3
+    uniqueID: 19140469
+    locked: 0
+  - name: 4
+    uniqueID: 2110139447
+    locked: 0
